@@ -40,4 +40,4 @@ Designed and deployed a home Security Operations Center lab. Simulated adversari
 
 ### 📫 Connect
 - LinkedIn: [linkedin.com/in/abishek-muraleedharan](https://www.linkedin.com/in/abishek-muraleedharan/)
-- Email: emabishek@gmai.com
+- Email: emabishek@gmail.com
