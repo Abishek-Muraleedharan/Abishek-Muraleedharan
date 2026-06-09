@@ -1,6 +1,6 @@
 # Hi, I'm Abishek Muraleedharan 👋
 
-**Cybersecurity graduate based in the Greater Toronto Area — open to roles in SOC, IT Support, Help Desk, and entry-level security.**
+**Cybersecurity graduate based in the Greater Toronto Area open to roles in SOC, IT Support, Help Desk, and entry-level security.**
 
 I build hands-on labs to turn classroom theory into things I can actually defend in an interview. Currently sharpening detection and threat-hunting skills while working toward my ISC2 CC certification.
 
@@ -40,4 +40,4 @@ Designed and deployed a home Security Operations Center lab. Simulated adversari
 
 ### 📫 Connect
 - LinkedIn: [linkedin.com/in/abishek-muraleedharan](https://www.linkedin.com/in/abishek-muraleedharan/)
-- Email: REPLACE_ME
+- Email: emabishek@gmai.com
